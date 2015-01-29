@@ -1,6 +1,6 @@
 # node-example-os
 
-node.js [v0.10.36](http://nodejs.org/dist/v0.10.36/)
+[node.js](http://nodejs.org/) [v0.10.36](http://nodejs.org/dist/v0.10.36/)
 
 * [tmpdir](http://node-example-os.azurewebsites.net/tmpdir)
 * [endianness](http://node-example-os.azurewebsites.net/endianness)
@@ -17,4 +17,7 @@ node.js [v0.10.36](http://nodejs.org/dist/v0.10.36/)
 * [networkInterfaces](http://node-example-os.azurewebsites.net/networkInterfaces)
 * [EOL](http://node-example-os.azurewebsites.net/EOL)
 
-Build with ![hapi.js](http://i.imgur.com/NWm9qvw.png)
+![hapi.js](http://i.imgur.com/NWm9qvw.png)
+
+* **Build with:** [hapi.js](http://hapijs.com/)
+* **Host:** [Microsoft Azure](http://azure.microsoft.com/)
